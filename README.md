@@ -11,4 +11,3 @@ I have solved **180+ problems on GeeksforGeeks**.
 - Sorting/
 - Hashing/
 - Trees/
-- Graphs/
